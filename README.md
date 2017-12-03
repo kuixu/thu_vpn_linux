@@ -50,3 +50,6 @@ Tsinghua U. provide Web, Windows and MacOS VPN software, you could download the 
 
 
 
+
+## Acknowledgement
+Idea is from [http://lijiancheng0614.github.io/2016/12/31/2016_12_31_thu_vpn/](http://lijiancheng0614.github.io/2016/12/31/2016_12_31_thu_vpn/), thanks to lijiancheng0614.
