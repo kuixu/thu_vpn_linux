@@ -30,16 +30,17 @@ source ~/.bashrc
 
 ## Usage 
 
-Run `thuvpn` with the input of account name:
+Run `thuvpn` with the input of `account`:
 
 ```
-thuvpn 2017xxxxxx
+thuvpn 2016xxxxxx
 ```
 
-
+Then, input your `password` on info.tsinghua.edu.cn, 
 
 <img src="img.png" style="float: left;">
 
+Now, you could surf the tsinghua intranet, like info.tsinghua, lib.tsinghua, et al.
 
 
 ## Other OS system
